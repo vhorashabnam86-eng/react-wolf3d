@@ -1,6 +1,6 @@
-# React + Vite
+# Deer 3D — Creative Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Interactive 3D nature experience built with React, Three.js, React Three Fiber, and GSAP.
 
 Currently, two official plugins are available:
 
